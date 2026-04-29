@@ -108,14 +108,9 @@ All tests passing.
 
 ## Screenshots
 
-### BigQuery Table Preview (500K rows)
-![BigQuery Preview](screenshots/bigquery_preview.png)
-
-### dbt Lineage Graph (DAG)
-![dbt Lineage](screenshots/dbt_lineage.png)
-
-### Looker Studio Dashboard
-![Dashboard](screenshots/looker_dashboard.png)
+![BigQuery Preview](bigquery_preview.png)
+![dbt Lineage](dbt_lineage.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -196,4 +191,4 @@ dbt docs generate
 ## Author
 
 **Arokyamary**
-[GitHub](https://github.com/Arokyamary) 
+[[GitHub](https://github.com/Arokyamary) ](https://github.com/Arokyamary)
