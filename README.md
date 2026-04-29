@@ -108,8 +108,25 @@ All tests passing.
 
 ## Screenshots
 
+## Screenshots
+
+### BigQuery Table Preview (500K rows)
+
+
 ![BigQuery Preview](bigquery_preview.png)
+
+
+
+### dbt Lineage Graph (DAG)
+
+
 ![dbt Lineage](dbt_lineage.png)
+
+
+
+### Looker Studio Dashboard
+
+
 ![Dashboard](dashboard.png)
 
 ---
