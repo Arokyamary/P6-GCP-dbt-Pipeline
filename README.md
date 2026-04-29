@@ -133,7 +133,7 @@ All tests passing.
 
 ## Looker Studio Dashboard
 
-**Public URL:** [Click here to view live dashboard](ADD_YOUR_LOOKER_STUDIO_URL_HERE)
+**Public URL:** https://datastudio.google.com/reporting/9d644d9e-7075-419c-adb0-6b0458ccebbe
 
 **Dashboard contains:**
 - Total Revenue Scorecard
