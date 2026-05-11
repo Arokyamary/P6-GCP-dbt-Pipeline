@@ -108,8 +108,6 @@ All tests passing.
 
 ## Screenshots
 
-## Screenshots
-
 ### BigQuery Table Preview (500K rows)
 
 
